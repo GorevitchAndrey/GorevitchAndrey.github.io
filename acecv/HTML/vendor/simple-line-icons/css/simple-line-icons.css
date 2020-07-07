@@ -206,6 +206,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 .icon-user:before {
   content: "\e005";
 }
@@ -717,7 +718,7 @@
   content: "\e009";
 }
 .icon-social-facebook:before {
-  content: "\e00b";
+  content: "\e076";
 }
 .icon-social-instagram:before {
   content: "\e609";
